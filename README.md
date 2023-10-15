@@ -1,63 +1,65 @@
-0x11. C - printf team project
+# C - printf Team Project
 
-Group Project:                                                                      
-                                                                                    
-0. I'm not going anywhere. You can print that wherever you want to. I'm here and I'm
- a Spur for life                                                                    
-Write a function that produces output according to a format.                        
-                                                                                    
-                                                                                    
-1. Education is when you read the fine print. Experience is what you get if you don'
-t                                                                                   
-Handle the following conversion specifiers:
+## Group Project:
 
-2. With a face like mine, I do better in print                                      
-Handle the following custom conversion specifiers:                                  
-                                                                                    
-3. What one has not experienced, one will never understand in print                 
-Handle the following conversion specifiers:                                         
-                                                                                    
-4. Nothing in fine print is ever good news                                          
-Use a local buffer of 1024 chars in order to call write as little as possible.      
-                                                                                    
-5. My weakness is wearing too much leopard print                                    
-Handle the following custom conversion specifier:                                   
-                                                                                    
-6. How is the world ruled and led to war? Diplomats lie to journalists and believe t
-hese lies when they see them in print                                               
-Handle the following conversion specifier: p.                                       
-                                                                                    
-7. The big print gives and the small print takes away                               
-Handle the following flag characters for non-custom conversion specifiers:          
-                                                                                    
-8. Sarcasm is lost in print                                                         
-Handle the following length modifiers for non-custom conversion specifiers:         
-                                                                                    
-l                                                                                   
-h                                                                                   
-Conversion specifiers to handle: d, i, u, o, x, X                                   
-                                                                                    
-9. Print some money and give it to us for the rain forests                          
-Handle the field width for non-custom conversion specifiers.                        
-                                                                                    
-10. The negative is the equivalent of the composer's score, and the print the perfor
-mance                                                                               
-Handle the precision for non-custom conversion specifiers.                          
-                                                                                    
-11. It's depressing when you're still around and your albums are out of print       
-Handle the 0 flag character for non-custom conversion specifiers.                   
-                                                                                    
-12. Every time that I wanted to give up, if I saw an interesting textile, print what
- ever, suddenly I would see a collection                                            
-Handle the - flag character for non-custom conversion specifiers.                   
-                                                                                    
-13. Print is the sharpest and the strongest weapon of our party                     
-Handle the following custom conversion specifier:                                   
-                                                                                    
-14. The flood of print has turned reading into a process of gulping rather than savo
-ring                                                                                
-Handle the following custom conversion specifier:                                   
-                                                                                    
-15. *                                                                               
-All the above options work well together. 
+1. **Project Overview:** 
+    Write a function that generates output based on a specified format.
+   
+2. **Functionality:**
+    - Handle the following conversion specifiers:
+        - `d`, `i`, `u`, `o`, `x`, `X`.
+   
+3. **Custom Conversion Specifiers:**
+    - Handle custom conversion specifiers.
+    - Example: "With a face like mine, I do better in print."
+   
+4. **Handling Fine Print:**
+    - Implement handling for fine print and important information.
+    - Example: "Education is when you read the fine print. Experience is what you get if you don't."
+   
+5. **Buffer Optimization:**
+    - Utilize a local buffer of 1024 characters to minimize `write` calls.
+    - Example: "Use a local buffer of 1024 chars to call write as little as possible."
+   
+6. **Leopard Print Handling:**
+    - Handle a custom conversion specifier for wearing too much leopard print.
+   
+7. **Understanding the Impact:**
+    - Address the impact of print size and clarity.
+    - Example: "The big print gives and the small print takes away."
+   
+8. **Sarcasm Handling:**
+    - Address the challenge of conveying sarcasm in printed text.
+    - Example: "Sarcasm is lost in print."
+   
+9. **Length Modifiers:**
+    - Handle length modifiers: `l`, `h`.
+   
+10. **Field Width Consideration:**
+    - Address handling field width for various conversion specifiers.
+    - Example: "Print some money and give it to us for the rain forests."
+   
+11. **Precision in Performance:**
+    - Handle precision for non-custom conversion specifiers.
+    - Example: "The negative is the equivalent of the composer's score, and the print the performance."
+   
+12. **Album Availability:**
+    - Address scenarios when albums are out of print and its implications.
+    - Example: "It's depressing when you're still around and your albums are out of print."
+   
+13. **Textile and Collection:**
+    - Highlight the influence of textiles on creativity and collection.
+    - Example: "Every time that I wanted to give up, if I saw an interesting textile, print whatever, suddenly I would see a collection."
+   
+14. **Print as a Weapon:**
+    - Discuss the power of print as a tool.
+    - Example: "Print is the sharpest and the strongest weapon of our party."
+   
+15. **Reading Experience:**
+    - Discuss the impact of print on the reading experience.
+    - Example: "The flood of print has turned reading into a process of gulping rather than savoring."
+   
+16. **Combining Functionality:**
+    - Highlight the compatibility and synergy of the implemented features.
+    - Example: "All the above options work well together." 
 
